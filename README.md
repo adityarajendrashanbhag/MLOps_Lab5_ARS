@@ -77,11 +77,11 @@ Add screenshots here before submission.
 
 ### Screenshot 2: Token Length Analysis
 
-![Token Length Analysis Placeholder](<img width="477" height="123" alt="image" src="https://github.com/user-attachments/assets/0820e376-b97e-4dc6-83b1-35a562c42ac8" />)
+![Token Length Analysis Placeholder](https://github.com/user-attachments/assets/0820e376-b97e-4dc6-83b1-35a562c42ac8)
 
 ### Screenshot 3: Final Batch Output
 
-![Final Batch Output Placeholder](<img width="600" height="135" alt="image" src="https://github.com/user-attachments/assets/74b73479-40c7-4acc-8350-fbfb9ff29179" />)
+![Final Batch Output Placeholder](https://github.com/user-attachments/assets/74b73479-40c7-4acc-8350-fbfb9ff29179)
 
 ## Notes
 
