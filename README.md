@@ -1,8 +1,8 @@
-# Lab 1: LLM Data Pipeline
+# Lab 5: LLM Data Pipeline
 
 ## Project Overview
 
-This project contains a modified version of Lab 1 focused on building an end-to-end LLM data pipeline for causal language modeling.
+This project contains a modified version of Lab 5 focused on building an end-to-end LLM data pipeline for causal language modeling.
 
 The notebook uses:
 
@@ -73,15 +73,15 @@ Add screenshots here before submission.
 
 ### Screenshot 1: Dataset Loading
 
-![Dataset Loading Placeholder](./screenshots/dataset-loading-placeholder.png)
+![Dataset Loading Placeholder](<img width="600" height="236" alt="image" src="https://github.com/user-attachments/assets/97bfa326-a487-4ce3-a8dc-dd291d62ec2d" />)
 
 ### Screenshot 2: Token Length Analysis
 
-![Token Length Analysis Placeholder](./screenshots/token-length-analysis-placeholder.png)
+![Token Length Analysis Placeholder](<img width="477" height="123" alt="image" src="https://github.com/user-attachments/assets/0820e376-b97e-4dc6-83b1-35a562c42ac8" />)
 
 ### Screenshot 3: Final Batch Output
 
-![Final Batch Output Placeholder](./screenshots/final-batch-output-placeholder.png)
+![Final Batch Output Placeholder](<img width="600" height="135" alt="image" src="https://github.com/user-attachments/assets/74b73479-40c7-4acc-8350-fbfb9ff29179" />)
 
 ## Notes
 
