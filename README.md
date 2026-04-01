@@ -73,7 +73,7 @@ Add screenshots here before submission.
 
 ### Screenshot 1: Dataset Loading
 
-![Dataset Loading Placeholder]("https://github.com/user-attachments/assets/97bfa326-a487-4ce3-a8dc-dd291d62ec2d")
+![Dataset Loading Placeholder](https://github.com/user-attachments/assets/97bfa326-a487-4ce3-a8dc-dd291d62ec2d)
 
 ### Screenshot 2: Token Length Analysis
 
