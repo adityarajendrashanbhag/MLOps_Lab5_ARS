@@ -1,8 +1,8 @@
-# Lab 5: LLM Data Pipeline
+# Lab 1: LLM Data Pipeline
 
 ## Project Overview
 
-This project contains a modified version of Lab 5 focused on building an end-to-end LLM data pipeline for causal language modeling.
+This project contains a modified version of Lab 1 focused on building an end-to-end LLM data pipeline for causal language modeling.
 
 The notebook uses:
 
@@ -69,22 +69,20 @@ After running the notebook, you should see:
 
 ## Screenshots
 
-Add screenshots here before submission.
-
 ### Screenshot 1: Dataset Loading
 
-![Dataset Loading Placeholder](https://github.com/user-attachments/assets/97bfa326-a487-4ce3-a8dc-dd291d62ec2d)
+![Dataset Loading](https://github.com/user-attachments/assets/97bfa326-a487-4ce3-a8dc-dd291d62ec2d)
 
 ### Screenshot 2: Token Length Analysis
 
-![Token Length Analysis Placeholder](https://github.com/user-attachments/assets/0820e376-b97e-4dc6-83b1-35a562c42ac8)
+![Token Length Analysis](https://github.com/user-attachments/assets/0820e376-b97e-4dc6-83b1-35a562c42ac8)
 
 ### Screenshot 3: Final Batch Output
 
-![Final Batch Output Placeholder](https://github.com/user-attachments/assets/74b73479-40c7-4acc-8350-fbfb9ff29179)
+![Final Batch Output](https://github.com/user-attachments/assets/74b73479-40c7-4acc-8350-fbfb9ff29179)
 
 ## Notes
 
-- The current notebook is intended as a data preprocessing pipeline, not a full model-training notebook.
+- This notebook focuses on data preprocessing for LLM training rather than full model training.
 - The final batches are prepared in a format suitable for decoder-only language models.
-- If the screenshot files are not added, the image links will simply remain as placeholders.
+- The pipeline demonstrates how raw text is converted into fixed-length token blocks for causal language modeling.
